@@ -1,21 +1,16 @@
 ## 👋 Kia ora and welcome
 
-Ko Raureti Reihana Tōku ingoa
+I am a multi-skilled person with a diverse work background, currently transitioning into the tech industry. My experience spans physical labour, high-responsibility driving, caregiving, and cultural work, all of which have made me highly adaptable, resilient, and a clear communicator. My ability to work both independently and within a team has been shaped by these varied roles. Now, as I transition into tech, I bring these strengths to my passion for coding. This unique mix of practical and technical skills, along with my strong teamwork and communication abilities, makes me a well-rounded and versatile professional, ready to tackle any challenge in web development.
 
-I am a multiskilled person who has a diverse work background and am transitioning into the tech industry.
-I have a combination of physical labor, high-responsibility driving, caregiving, and cultural work which has made me highly adaptable, resilient, and a clear communicator. My ability to work both independently and within a team has been shaped by these diverse roles, and now, as I transition into the tech industry, I bring all these strengths to my passion for coding. This unique mix of practical and technical skills, coupled with my strong teamwork and communication abilities, makes me a well-rounded and versatile professional, ready to tackle any challenge in web development.
+Below are some projects I have been part of:
 
-Below i have some projects that i was part:
+Book Finder – This project was completed on my own to test my full-stack skills. It was created to showcase the skills we learned during the course, which involved making a database using Knex and demonstrating the ability to send and receive requests from the database. While the app logic wasn't fully completed, it had all the functionality for POST, GET, PATCH, and DELETE requests. This project also highlights our work with front-end routing, using components in React, and working with React hooks.
 
-Book Finder - This project i done on my own to test my fullstack skills. This project was made to showcase the skills we have learnt over the duration of the course which involoved making a database using knex and showcasing the ability to make requests and recieve responses from and to the database. The logic of the app wasn't complete but it had all the fucntionality working for post, get, patch and delete requests. This project also showcases the work we done with front-side routing and using components with react as well as using react hooks.
+Stay Pawsitive – This was one of my first group projects, and it was a lot of fun. The main objective was to consume APIs and make GET requests to display data. In this case, we successfully used a dog picture API.
 
+Dreamfest – Dreamfest was a project that had been partially completed, and we, the students, were tasked with finishing it. This project helped us learn how to make API requests that allowed us to create, edit, and delete events. I spent time understanding how to build functions that retrieved the necessary data without pulling in unnecessary information.
 
-
-Stay Pawsitive - This project was one of my first group projects which was really fun. The main objective of this project was about consuming api's and making get requests to show something. In this case we used a dog picture api which was successful.
-
-Dreamfest - Dreamfest was a project that had already been partly completed and we the students had to finish it off. This project helped us learn about making api requests that allowed us to create, edit and delete an event. Spent time understanding how to make functions to call the right data without calling unnecersary data.
-
-Raureti-Reihana.github.io - This was one of the first pages we made that told people about who we are, learning plan and other stuff we learnt in relation to soft skills and effecient learning.
+Raureti’s Blog – This was one of the first pages we created to introduce ourselves, our learning plans, and other lessons we learned related to soft skills and efficient learning.
 
 
 
