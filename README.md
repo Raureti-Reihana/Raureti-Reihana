@@ -12,8 +12,6 @@ Dreamfest – Dreamfest was a project that had been partially completed, and we,
 
 Raureti’s Blog – This was one of the first pages we created to introduce ourselves, our learning plans, and other lessons we learned related to soft skills and efficient learning.
 
-
-
 <!--
 **Raureti-Reihana/Raureti-Reihana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
